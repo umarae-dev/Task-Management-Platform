@@ -95,6 +95,7 @@ The platform includes a dedicated ticket purchasing module allowing users to:
 ## 📸 System Screenshots
 
 Below are key modules of the platform.
+some screenshots may not preview good you shoud open in new tab or look on the website thanks.
 
 ### 📋 Task Dashboard
 ![Task Dashboard](screenshots/Taskdashboard.png)
