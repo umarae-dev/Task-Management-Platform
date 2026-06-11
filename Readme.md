@@ -109,12 +109,6 @@ some screenshots may not preview good you shoud open in new tab or look on the w
 ### 🛠️ Task Admin Panel
 ![Task Admin](screenshots/taskadmin.png)
 
-### 🎫 Buy Ticket System
-![Buy Ticket](screenshots/buyticket.png)
-
-### 📨 View Tickets
-![View Tickets](screenshots/viewticket.png)
-
 ### 🎟️ Admin Ticket Management
 ![Admin Ticket](screenshots/adminticket.png)
 
