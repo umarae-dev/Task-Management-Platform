@@ -1,81 +1,124 @@
-# 🚀 Task Management Platform (SaaS System)
+# 🚀 Task Management Platform (Production SaaS System)
 
-This repository contains the Task Management module of a large-scale production ecosystem similar to platforms like TimeBucks.
+A production-level multi-role Task Management Platform inspired by modern earning and engagement systems.
 
-It is designed as a multi-role system including task creation, task execution, task verification, ticket support, and presale UQX ticket system.
+This platform is designed to manage tasks, submissions, verification workflows, support tickets, and UQX presale ticket operations through a structured role-based architecture.
+
+The system is actively developed as part of a larger production ecosystem serving real users.
 
 ---
 
 ## 🧠 System Overview
 
-This Task Management Platform is part of a larger ecosystem and focuses only on task-related operations.
+The platform includes:
 
-It includes:
-
-- Task Creation & Management System  
-- Task Submission & Verification Flow  
-- Task Admin Panel  
-- Ticket Support System  
-- UQX Presale Ticket System (Buy / Manage Tickets)  
-- Role-based Access (User / Admin / Owner handled in core system)  
+- Task Creation & Management
+- Task Submission Workflow
+- Task Verification System
+- Task Administration Panel
+- Ticket Support System
+- UQX Presale Ticket Module
+- User Activity Monitoring
+- Role-Based Access Control
+- Modular Backend Architecture
 
 ---
 
 ## ⚙️ Tech Stack
 
-- PHP (Backend Logic)
-- MySQL (Database)
-- JavaScript (Frontend Interactions)
-- AJAX / API Integration
+- PHP (Core Backend)
+- MySQL Database
+- JavaScript
+- AJAX
+- REST API Integration
 - Modular Architecture
+- Python
+- Node.js
 
 ---
 
-## 📌 Key Modules in This Repository
+## 📌 Core Features
 
-### 📋 Task System
+### 📋 Task Management System
+
+Users can:
+
+- Browse available tasks
+- Complete assigned tasks
+- Submit proof of completion
+- Track task status
+- Monitor rewards and approvals
+
+### 📤 Task Submission Workflow
+
+The platform includes a structured verification process:
+
+- Task Submission
+- Review Queue
+- Approval/Rejection Process
+- Status Tracking
+
+### 🛠️ Task Administration
+
+Administrators can:
+
 - Create tasks
-- Assign tasks
-- Submit tasks
-- Verify completion
+- Manage submissions
+- Review user activity
+- Approve or reject completed tasks
+- Monitor platform performance
 
-### 🛠️ Task Admin Panel
-- Manage all tasks
-- Approve / reject submissions
-- Monitor user activity
+### 🎫 Ticket Support System
 
-### 🎫 Ticket System
-- Support ticket creation
-- User issue tracking
-- Admin response system
+Users can:
+
+- Create support tickets
+- View ticket history
+- Communicate with support staff
+
+Administrators can:
+
+- Manage tickets
+- Reply to users
+- Track issue resolution
 
 ### 💰 UQX Presale Ticket System
-- Buy presale tickets
-- Track ticket status
-- Manage user participation
+
+The platform includes a dedicated ticket purchasing module allowing users to:
+
+- Purchase participation tickets
+- Track ticket history
+- Monitor ticket status
 
 ---
 
-## 📸 Screenshots
+## 📸 System Screenshots
 
-> Screenshots for full ecosystem are available in the main Umarae repository.  
-> This repo focuses only on task-related modules.
+Below are key modules of the platform.
 
----
+### 📋 Task Dashboard
+![Task Dashboard](screenshots/Taskdashboard.png)
 
-## 🚀 Project Scope Note
+### 📝 View Tasks
+![View Tasks](screenshots/viewtask.png)
 
-This repository represents a **core subsystem** of a much larger production ecosystem.
+### 📤 Task Submission System
+![Task Submission](screenshots/tasksubmation.png)
 
-The complete system includes multiple integrated modules such as:
+### 🛠️ Task Admin Panel
+![Task Admin](screenshots/taskadmin.png)
 
-- Wallet System  
-- Mining System  
-- Deposit System  
-- Owner/Admin Control Panel  
-- Referral & Earning System  
+### 🎫 Buy Ticket System
+![Buy Ticket](screenshots/buyticket.png)
 
-Those modules are maintained in separate repositories.
+### 📨 View Tickets
+![View Tickets](screenshots/viewticket.png)
+
+### 🎟️ Admin Ticket Management
+![Admin Ticket](screenshots/adminticket.png)
+
+### 💬 Support & Communication
+![Admin Chat](screenshots/adminchat.png)
 
 ---
 
@@ -93,7 +136,7 @@ Specialized in scalable SaaS systems, admin dashboards, and API-driven architect
 
 ---
 
-## 🌍 Live System
+## 🌍 Live Echo System
 
 https://www.umarae.com
 
@@ -103,3 +146,5 @@ https://www.umarae.com
 
 mumar@umarae.com  
 gorosolution@gmail.com
+
+For collaboration opportunities, freelance projects, partnerships, or technical discussions, feel free to connect through GitHub or the live platforms above.
