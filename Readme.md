@@ -106,6 +106,12 @@ some screenshots may not preview good you shoud open in new tab or look on the w
 ### 📤 Task Submission System
 ![Task Submission](screenshots/tasksubmation.png)
 
+### 🎫 Buy Ticket System
+![Buy Ticket](screenshots/buyticket.png)
+
+### 📨 View Tickets
+![View Tickets](screenshots/viewticket.png)
+
 ### 🛠️ Task Admin Panel
 ![Task Admin](screenshots/taskadmin.png)
 
